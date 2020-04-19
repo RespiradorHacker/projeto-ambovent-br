@@ -1,7 +1,7 @@
 # projeto-ambovent-br
 Projeto de ventilador pulmonar baseado no Ambovent desenvolvido em Israel, porém com algumas modificações.
 
-O princípio de funcionamento mecânico do projeto baseia-se no mesmo princípio do Ambovent de Israel. Porém ao invés de motor de vidro, estamos utilizando motor de passo Nema 23 2,8A com o driver TB6600.
+O princípio de funcionamento mecânico do projeto baseia-se no mesmo princípio do Ambovent de Israel. Porém ao invés de motor de vidro, estamos utilizando motor de passo Nema 23 2,8A com o driver TB6600, dando mais precisão nos movimentos e melhor controle de parâmetros como volume, pressão e fluxo.
 
 A parte de hardware possuirá 2 sensores de pressão do tipo MPX5010dp, um para controlar a pressão do ar, e outro para medir a pressão diferencial em uma placa de orifício e fazer o controle de fluxo isnpiratório e volume Tidal. Porém eles ainda não foram entregues, então estamos tentando adequar um MPX10dp, que já possuimos, ao microcontrolador Arduino pra começar os testes.
 
