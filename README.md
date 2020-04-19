@@ -19,12 +19,12 @@ Segue abaixo mais detalhes sobre o que pretendemos desenvolver:
 •	Estimular participantes do projeto a desenvolver pesquisas e novas soluções voltadas para área da saúde.
 
 
-	d) Justificativa 
+	Justificativa 
 
 Na fase crítica do Covid-19 o paciente que o contém sofre de SDRA (Síndrome de desconforto respiratório agudo), demandando o uso contínuo e prolongado de um respirador pulmonar artificial. Devido ao alto poder de transmissão da doença, a necessidade de utilização de respiradores pulmonares aumentou significativamente, nas últimas semanas, no Brasil e no mundo. É de conhecimento de todos que o Brasil não possui respiradores pulmonares suficiente para atender todos pacientes num possível colapso do sistema de saúde. A manutenção de respiradores defeituosos e a aquisição de novos respiradores nacionais e internacionais não será suficiente pra suprir a demanda. É importante ressaltar também que a maioria dos respiradores já existentes no mercado possuem um preço muito elevado além de várias funções e modos ventilatórios que não atendem especificamente pacientes com Covid 19. 
 Assim sendo, é de extrema necessidade que haja alternativas mais simples, baratas e seguras que tenham como objetivo atender especificamente pacientes com Covid-19 e que poderão também atender pacientes portadores de doenças com sintomas semelhantes. um paciente com Covid-19 apresenta SDRA, e os modos de ventilações usados para esse caso são: VCV e PCV. Para tanto um respirador mecânico apenas com esses dois modos, consegue atender pacientes com COVID-19 e com doenças semelhantes. Necessitando assim de menos tecnologia e componentes, facilitando o projeto, os testes e a fabricação do mesmo, além de torná-los mais baratos e de fácil operação. 
 
-	e) Produto a ser entregue 
+	Produto a ser entregue 
 
 Respirador pulmonar de baixo custo baseado na automatização do ressuscitador tipo Ambu. No qual será possível utilizar dois principais modos de ventilação mecânica: modo VCV (Ventilação controlada a volume) e PCV (Ventilação controlada a Pressão), bem como os alarmes e requisitos mínimos necessários exigidos pela ANVISA.
 
