@@ -28,18 +28,18 @@ Assim sendo, é de extrema necessidade que haja alternativas mais simples, barat
 
 Respirador pulmonar de baixo custo baseado na automatização do ressuscitador tipo Ambu. No qual será possível utilizar dois principais modos de ventilação mecânica: modo VCV (Ventilação controlada a volume) e PCV (Ventilação controlada a Pressão), bem como os alarmes e requisitos mínimos necessários exigidos pela ANVISA.
 
-	Detalhes do produto:
-	É importante ressaltar que os detalhes citados a seguir podem sofrerem alterações, caso seja necessário, ao longo do desenvolvimento do projeto.
-	Ao iniciar o uso do respirador pulmonar, será possibilitado ao operador escolher o modo PCV ou VCV. A partir do modo escolhido o operador tem ao seu alcance os seguintes parâmetros de entrada:
+Detalhes do produto:
+É importante ressaltar que os detalhes citados a seguir podem sofrerem alterações, caso seja necessário, ao longo do desenvolvimento do projeto.
+Ao iniciar o uso do respirador pulmonar, será possibilitado ao operador escolher o modo PCV ou VCV. A partir do modo escolhido o operador tem ao seu alcance os seguintes parâmetros de entrada:
 
-	Parâmetros de entrada no modo VCV: 
+Parâmetros de entrada no modo VCV: 
 •	Volume corrente entre 200 a 800 ml (alterável de 10 em 10 ml);
 •	Fluxo inspiratório entre 10 e 60 L/min (alterável de 2 em 2 L/min); 
 •	Frequência respiratória entre 8 e 40 rpm (alterável de 2 em 2 rpm);
 •	Pausa inspiratória entre 0,25 e 1,5 seg (alterável de 0,25 em 0,25 seg).
 •	Pressão expositiva no final da expiração (PEEP) entre 5 e 20 cmH2O (alterável de 5 em 5 cmH2O).
 
-	Parâmetros de entrada no modo PCV:
+Parâmetros de entrada no modo PCV:
 •	Pressão inspiratória entre 10 e 40 cmH2O (alterável de 2 em 2 cmH2O);
 •	Frequência respiratória entre 8 e 40 rpm (alterável de 2 em 2 rpm);
 •	Tempo de inspiração entre 0,25 e 5 seg (alterável de 0,1 em 0,1 seg);
@@ -48,8 +48,7 @@ Respirador pulmonar de baixo custo baseado na automatização do ressuscitador t
 
 Para que o operador possa controlar de maneira segura os parâmetros de entrada será mostrado ao mesmo, em uma tela, os parâmetros de saída:
 
-
-	Variáveis monitoradas (parâmetros de saída) mostradas nos 2 modos: 
+Variáveis monitoradas (parâmetros de saída) mostradas nos 2 modos: 
 •	Pressão máxima inspiratória em cmH2O (pressão de pico na inspiração);
 •	Pressão de platô em cmH2O;
 •	Volume minuto em L/min (frequência multiplicada pelo volume Corrente);
@@ -59,7 +58,7 @@ Para que o operador possa controlar de maneira segura os parâmetros de entrada 
 
 O sistema possuirá também os seguintes alarmes:
 
-	Alarmes:
+Alarmes:
 •	Alarme regulável para pressão inspiratória máxima maior que o valor inserido (recomendável 40 cmH2O);
 •	Alarme regula´vel para pressão de platô maior que o valor inserido (recomendável 30 cmH2O);
 •	Alarme regulável para volume corrente maior que o valor inserido;
